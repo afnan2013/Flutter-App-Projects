@@ -24,38 +24,40 @@ class MyApp extends StatelessWidget {
               IconButton(icon: Icon(Icons.add_a_photo), onPressed: () {}),
             ],
           ),
-          body: SingleChildScrollView(
-            scrollDirection: Axis.vertical,
-            child: Column(
-              children: [
-                Container(
-                  height: 300,
-                  width: 250,
-                  color: Colors.lightGreenAccent,
-                  child: Center(
+          body: ListView(
+            children: <Widget> [
+              Column(
+                children: [
+                  SizedBox(height: 10,),
+                  Container(
+                    height: 300,
+                    width: 250,
+                    color: Colors.lightGreenAccent,
+                    child: Center(
                       child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+                    ),
                   ),
-                ),
-                SizedBox(height: 10,),
-                Container(
-                  height: 300,
-                  width: 250,
-                  color: Colors.lightGreenAccent,
-                  child: Center(
-                    child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+                  SizedBox(height: 10,),
+                  Container(
+                    height: 300,
+                    width: 250,
+                    color: Colors.lightGreenAccent,
+                    child: Center(
+                      child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+                    ),
                   ),
-                ),
-                SizedBox(height: 10,),
-                Container(
-                  height: 300,
-                  width: 250,
-                  color: Colors.lightGreenAccent,
-                  child: Center(
-                    child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+                  SizedBox(height: 10,),
+                  Container(
+                    height: 300,
+                    width: 250,
+                    color: Colors.lightGreenAccent,
+                    child: Center(
+                      child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+                    ),
                   ),
-                ),
-              ],
-            ),
+                ],
+              ),
+            ],
           ),
           backgroundColor: Colors.deepOrangeAccent,
         ),
