@@ -10,18 +10,52 @@ class MyApp extends StatelessWidget {
     // TODO: implement build
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        primarySwatch: Colors.teal,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
+      ),
       home: SafeArea(
         child: Scaffold(
           appBar: AppBar(
-            title: Text("Home Page"),
+            title: Text("Afnan's Home Page"),
             centerTitle: true,
             leading: Icon(Icons.account_circle),
             actions: <Widget>[
               IconButton(icon: Icon(Icons.add_a_photo), onPressed: () {}),
             ],
           ),
-          body: Center(
-              child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+          body: SingleChildScrollView(
+            scrollDirection: Axis.vertical,
+            child: Column(
+              children: [
+                Container(
+                  height: 300,
+                  width: 250,
+                  color: Colors.lightGreenAccent,
+                  child: Center(
+                      child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+                  ),
+                ),
+                SizedBox(height: 10,),
+                Container(
+                  height: 300,
+                  width: 250,
+                  color: Colors.lightGreenAccent,
+                  child: Center(
+                    child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+                  ),
+                ),
+                SizedBox(height: 10,),
+                Container(
+                  height: 300,
+                  width: 250,
+                  color: Colors.lightGreenAccent,
+                  child: Center(
+                    child: Text("Hello World", style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),),
+                  ),
+                ),
+              ],
+            ),
           ),
           backgroundColor: Colors.deepOrangeAccent,
         ),
