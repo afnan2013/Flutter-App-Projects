@@ -1,0 +1,11 @@
+# ninja log v5
+0	1178	626917592	CMakeFiles/native-lib.dir/native-lib.cpp.o	2d5a6bcbe50085e8
+1181	1454	626917593	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/x86/libnative-lib.so	571e3aaa2ef83e
+4	909	626918937	CMakeFiles/native-lib.dir/native-lib.cpp.o	2d5a6bcbe50085e8
+933	1301	626918937	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/x86/libnative-lib.so	571e3aaa2ef83e
+4	920	626919029	CMakeFiles/native-lib.dir/native-lib.cpp.o	2d5a6bcbe50085e8
+920	1217	626919029	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/x86/libnative-lib.so	571e3aaa2ef83e
+8	953	626919626	CMakeFiles/native-lib.dir/native-lib.cpp.o	2d5a6bcbe50085e8
+953	1204	626919626	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/x86/libnative-lib.so	571e3aaa2ef83e
+4	1021	627090681	CMakeFiles/native-lib.dir/native-lib.cpp.o	2d5a6bcbe50085e8
+1021	1394	627090681	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/x86/libnative-lib.so	571e3aaa2ef83e

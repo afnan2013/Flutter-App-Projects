@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Rafim\AndroidStudioProjects\flutter_app\Learning\nativeplugin\android\.cxx\cmake\debug\x86'
+ninja: no work to do.

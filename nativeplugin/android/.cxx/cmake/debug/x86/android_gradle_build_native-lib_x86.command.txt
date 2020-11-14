@@ -1,0 +1,7 @@
+Executable : C:\Users\Rafim\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Rafim\AndroidStudioProjects\flutter_app\Learning\nativeplugin\android\.cxx\cmake\debug\x86
+native-lib
+jvmArgs : 
+

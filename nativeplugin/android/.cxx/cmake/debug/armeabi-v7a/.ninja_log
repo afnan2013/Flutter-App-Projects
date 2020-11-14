@@ -1,0 +1,11 @@
+# ninja log v5
+1	2689	626917589	CMakeFiles/native-lib.dir/native-lib.cpp.o	9b9e4718f4364f56
+2692	3010	626917589	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	cc4e0e52eb092f14
+6	1611	626918934	CMakeFiles/native-lib.dir/native-lib.cpp.o	9b9e4718f4364f56
+1612	1979	626918935	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	cc4e0e52eb092f14
+4	1338	626919026	CMakeFiles/native-lib.dir/native-lib.cpp.o	9b9e4718f4364f56
+1338	1683	626919026	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	cc4e0e52eb092f14
+14	1396	626919623	CMakeFiles/native-lib.dir/native-lib.cpp.o	9b9e4718f4364f56
+1397	1767	626919623	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	cc4e0e52eb092f14
+9	1932	627090678	CMakeFiles/native-lib.dir/native-lib.cpp.o	9b9e4718f4364f56
+1932	2345	627090678	C:/Users/Rafim/AndroidStudioProjects/flutter_app/Learning/nativeplugin/example/build/nativeplugin/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	cc4e0e52eb092f14

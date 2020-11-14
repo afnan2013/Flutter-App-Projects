@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Rafim\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Rafim\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Rafim\\AndroidStudioProjects\\flutter_app\\Learning\\nativeplugin\\android\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Rafim\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Rafim\\AndroidStudioProjects\\flutter_app\\Learning\\nativeplugin\\android\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Rafim\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Rafim\\AndroidStudioProjects\\flutter_app\\Learning\\nativeplugin\\android\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\Rafim\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Rafim\\AndroidStudioProjects\\flutter_app\\Learning\\nativeplugin\\android\\.cxx\\cmake\\release\\arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Rafim\\AndroidStudioProjects\\flutter_app\\Learning\\nativeplugin\\android\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libnative-lib.so"
+    }
+  }
+}
